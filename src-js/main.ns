@@ -1,0 +1,11 @@
+fn t(x) {
+    x = 20;
+    println(x);
+}
+
+fn main() {
+    var x y;
+    x = 1;
+    t(x);
+    println(x);
+}
